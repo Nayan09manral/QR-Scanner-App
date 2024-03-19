@@ -1,1 +1,1 @@
-##Qr-Scanner
+Qr-Scanner
